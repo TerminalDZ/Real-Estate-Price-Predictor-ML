@@ -1,67 +1,92 @@
 [
     {
         "name": "home 1",
-        "area_m2": 34.0,
-        "price": 15000.0
+        "area_m2": 34,
+        "price": 15000,
+        "rooms": 1,
+        "bathrooms": 1,
+        "location": "A",
+        "age": 5
     },
     {
         "name": "home 2",
-        "area_m2": 50.0,
-        "price": 13000.0
+        "area_m2": 50,
+        "price": 13000,
+        "rooms": 2,
+        "bathrooms": 1,
+        "location": "B",
+        "age": 10
     },
     {
         "name": "home 3",
-        "area_m2": 67.0,
-        "price": 22000.0
+        "area_m2": 67,
+        "price": 22000,
+        "rooms": 2,
+        "bathrooms": 1,
+        "location": "A",
+        "age": 3
     },
     {
         "name": "home 4",
-        "area_m2": 32.0,
-        "price": 26000.0
+        "area_m2": 32,
+        "price": 26000,
+        "rooms": 3,
+        "bathrooms": 1,
+        "location": "C",
+        "age": 15
     },
     {
         "name": "home 5",
-        "area_m2": 43.0,
-        "price": 35000.0
+        "area_m2": 43,
+        "price": 35000,
+        "rooms": 3,
+        "bathrooms": 2,
+        "location": "B",
+        "age": 7
     },
     {
         "name": "home 6",
-        "area_m2": 80.0,
-        "price": 30000.0
+        "area_m2": 80,
+        "price": 30000,
+        "rooms": 3,
+        "bathrooms": 2,
+        "location": "A",
+        "age": 20
     },
     {
         "name": "home 7",
-        "area_m2": 100.0,
-        "price": 50000.0
+        "area_m2": 100,
+        "price": 50000,
+        "rooms": 4,
+        "bathrooms": 2,
+        "location": "C",
+        "age": 1
     },
     {
         "name": "home 8",
-        "area_m2": 120.0,
-        "price": 60000.0
+        "area_m2": 120,
+        "price": 60000,
+        "rooms": 4,
+        "bathrooms": 3,
+        "location": "B",
+        "age": 3
     },
     {
         "name": "home 9",
-        "area_m2": 150.0,
-        "price": 75000.0
+        "area_m2": 150,
+        "price": 75000,
+        "rooms": 5,
+        "bathrooms": 3,
+        "location": "A",
+        "age": 5
     },
     {
         "name": "home 10",
-        "area_m2": 200.0,
-        "price": 80000.0
-    },
-    {
-        "name": "home 11",
-        "area_m2": 34.0,
-        "price": 16500.0
-    },
-    {
-        "name": "home 12",
-        "area_m2": 34.0,
-        "price": 20000.0
-    },
-    {
-        "name": "home 13",
-        "area_m2": 34.0,
-        "price": 18000.0
+        "area_m2": 200,
+        "price": 80000,
+        "rooms": 5,
+        "bathrooms": 4,
+        "location": "C",
+        "age": 2
     }
 ]
